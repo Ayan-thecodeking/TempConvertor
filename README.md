@@ -11,5 +11,8 @@ To use the application, simply open the index.html file in your web browser.
 - Click the "Submit" button.
 - The converted temperature value will be displayed in the result section.
 
+## Contributing
+If you think there are ways to improve the application, such as optimizing the code or improving the UI, feel free to submit a pull request. Your contributions are always welcome!
+
 ## Acknowledgments
-This project was created as a simple exercise to practice HTML, SCSS, and JavaScript. Feel free to use it as a starting point for your own projects , even if you feel that it can get more optimized or the UI could be more better then request a PR .
+This project was created as a simple exercise to practice HTML, SCSS, and JavaScript. Feel free to use it as a starting point for your own projects .
