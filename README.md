@@ -1,6 +1,6 @@
 # TempConvertor
 
-This is a simple temperature converter web application created using HTML, CSS, and JavaScript. The user can input a temperature value and select whether it is in Celsius or Fahrenheit. After submitting the form, the application will calculate and display the converted temperature value.
+This is a simple temperature converter web application created using HTML, SCSS, and JavaScript with optimized code. The user can input a temperature value and select whether it is in Celsius or Fahrenheit. After submitting the form, the application will calculate and display the converted temperature value.
 
 ## Getting Started
 To use the application, simply open the index.html file in your web browser.
