@@ -15,4 +15,4 @@ To use the application, simply open the index.html file in your web browser.
 If you think there are ways to improve the application, such as optimizing the code or improving the UI, feel free to submit a pull request. Your contributions are always welcome!
 
 ## Acknowledgments
-This project was created as a simple exercise to practice HTML, SCSS, and JavaScript. Feel free to use it as a starting point for your own projects .
+This project was created as a simple exercise to practice HTML, SCSS, and JavaScript. Feel free to use it as a starting point for your own projects.
